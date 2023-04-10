@@ -1,5 +1,6 @@
 google.com, pub-2771146316907217, DIRECT, f08c47fec0942fa0
 applovin.com, f6a9f5853ac5c985df8b8f9142414d15, DIRECT
+facebook.com, 701612018311973, DIRECT, c3e20eee3f780d68
 inmobi.com, 10ea3bd794354571a72f6e7287865a5c, DIRECT, 83e75a7ae333ca9d
 eskimi.com, 2020000030, RESELLER
 freewheel.tv, 1585681, RESELLER
